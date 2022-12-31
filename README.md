@@ -1,5 +1,8 @@
-### Hi there 👋
-
+## Seonjoon Kim 😲
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpnm6054&count_bg=%23FF001E&title_bg=%230019FF&icon=git.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+![Seonjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnm6054&theme=radical&show_icons=true)  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pnm6054)](https://solved.ac/pnm6054)
 <!--
 **pnm6054/pnm6054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
